@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://www.wallsauce.com/uploads/wallsauce-com/images/thumbs/904/ed2f41a2f426344db49cb5dcf16236c230cfcae3_650__R_N_80.jpg");
+    background-size: cover;
+    height: 100vh;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+#container {
+    background-color: skyblue;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid white;
+    border-radius: 5px;
+}
+
+p {
+    font-weight: bold;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 20px; 
+}
+
+h1 {
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+#count-el {
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: grey;
+}
+
+button {
+    color: black;
+    font-weight: bold;
+    width: 100px;
+    cursor: pointer;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+#add-btn {
+    background-color: green;
+}
+
+#reset-btn {
+    background: red;
+}
+
+#save-btn {
+    background: orange;
+}
